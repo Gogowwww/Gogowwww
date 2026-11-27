@@ -1,17 +1,23 @@
+<div align="center">
+
+<img src="assets/banner.jpg" alt="Bannière : réseau de nœuds verts sur fond sombre" width="100%">
+
+</div>
+
 <a id="francais"></a>
 
 <div align="center">
 
 **Français** · [English](#english)
 
-# Salut, moi c'est Gogow 👋
+# Salut, moi c'est Gogow_ 👋
 
 **Développeur autodidacte — Go, self-hosting & automatisation.**
 J'aime les outils qui remplacent une soirée de SSH par un bouton dans un navigateur.
 
 [![Profil GitHub](https://img.shields.io/badge/GitHub-Gogowwww-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gogowwww)
 [![Site frp-manager](https://img.shields.io/badge/frp--manager.org-0e9f6e?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://frp-manager.org)
-[![Email](https://img.shields.io/badge/Me%20contacter-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hugokalmar71000@gmail.com)
+[![Email](https://img.shields.io/badge/Me%20contacter-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@gogow.fr)
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
@@ -33,7 +39,7 @@ TOML, de relancer des services systemd et de lire des logs en SSH.
 
 [![License](https://img.shields.io/github/license/Gogowwww/frp-manager?style=flat-square)](https://github.com/Gogowwww/frp-manager/blob/main/LICENSE)
 [![Release](https://img.shields.io/github/v/release/Gogowwww/frp-manager?style=flat-square)](https://github.com/Gogowwww/frp-manager/releases)
-[![Stars](https://img.shields.io/github/stars/Gogowwww/frp-manager?style=flat-square)](https://github.com/Gogowwww/frp-manager/stargazers)
+[![Stars](https://img.shields.io/github/stars/Gogowwww/frp-manager?style=flat-square)](https://github.com/Gogowwww/frp-manager)
 ![Platform](https://img.shields.io/badge/platform-Linux-blue?style=flat-square)
 
 <a href="https://frp-manager.org/demo/">
@@ -65,10 +71,8 @@ TOML, de relancer des services systemd et de lire des logs en SSH.
 | Projet | Ce que ça fait | Stack |
 | --- | --- | --- |
 | **Portfolio** | Site personnel statique, sans build, déployé sur GitHub Pages | HTML · CSS · JS |
-| **MVL71** | Espace adhérent d'un club de volley : calendrier, présences, cotisations, documents et rôles | Flask · SQLAlchemy · Bootstrap |
 | **Snap Look** | Mod Fabric pour Minecraft : une touche aligne la vue sur le point cardinal le plus proche | Java · Fabric |
 | **CA Synthèse Dark** | Extension navigateur : thème sombre et mise en page épurée pour l'espace client Crédit Agricole | Manifest V3 · JS · CSS |
-| **Claude Usage Gauge** | Icône de zone de notification Windows affichant l'usage en temps réel, sans rien envoyer ailleurs | Python · Windows API |
 | **Dashboards Home Assistant** | Vues sur mesure pour suivre un onduleur et un scooter électrique, en thème sombre | YAML · Home Assistant |
 
 ---
@@ -99,14 +103,14 @@ Outils       Git · GitHub Actions · Forgejo · Home Assistant
 
 [Français](#francais) · **English**
 
-# Hi, I'm Gogow 👋
+# Hi, I'm Gogow_ 👋
 
 **Self-taught developer — Go, self-hosting & automation.**
 I like tools that replace an evening of SSH with a button in the browser.
 
 [![GitHub profile](https://img.shields.io/badge/GitHub-Gogowwww-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gogowwww)
 [![frp-manager.org](https://img.shields.io/badge/frp--manager.org-0e9f6e?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://frp-manager.org)
-[![Email](https://img.shields.io/badge/Get%20in%20touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hugokalmar71000@gmail.com)
+[![Email](https://img.shields.io/badge/Get%20in%20touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@gogow.fr)
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
@@ -128,7 +132,7 @@ restarting systemd units and reading logs over SSH.
 
 [![License](https://img.shields.io/github/license/Gogowwww/frp-manager?style=flat-square)](https://github.com/Gogowwww/frp-manager/blob/main/LICENSE)
 [![Release](https://img.shields.io/github/v/release/Gogowwww/frp-manager?style=flat-square)](https://github.com/Gogowwww/frp-manager/releases)
-[![Stars](https://img.shields.io/github/stars/Gogowwww/frp-manager?style=flat-square)](https://github.com/Gogowwww/frp-manager/stargazers)
+[![Stars](https://img.shields.io/github/stars/Gogowwww/frp-manager?style=flat-square)](https://github.com/Gogowwww/frp-manager)
 ![Platform](https://img.shields.io/badge/platform-Linux-blue?style=flat-square)
 
 <a href="https://frp-manager.org/demo/">
@@ -160,10 +164,8 @@ restarting systemd units and reading logs over SSH.
 | Project | What it does | Stack |
 | --- | --- | --- |
 | **Portfolio** | Static personal site, no build step, deployed on GitHub Pages | HTML · CSS · JS |
-| **MVL71** | Member portal for a volleyball club: schedule, attendance, dues, documents and roles | Flask · SQLAlchemy · Bootstrap |
 | **Snap Look** | Fabric mod for Minecraft: one key snaps your view to the nearest cardinal direction | Java · Fabric |
 | **CA Synthèse Dark** | Browser extension: dark theme and cleaner layout for the Crédit Agricole customer area | Manifest V3 · JS · CSS |
-| **Claude Usage Gauge** | Windows notification-area icon showing live usage, without sending anything anywhere | Python · Windows API |
 | **Home Assistant dashboards** | Custom views to monitor an inverter and an electric scooter, in a dark theme | YAML · Home Assistant |
 
 ---
@@ -203,7 +205,7 @@ Tooling      Git · GitHub Actions · Forgejo · Home Assistant
 
 Le plus simple, c'est de m'écrire. · The easiest way is to drop me a line.
 
-[![Email](https://img.shields.io/badge/hugokalmar71000@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hugokalmar71000@gmail.com)
+[![Email](https://img.shields.io/badge/contact%40gogow.fr-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@gogow.fr)
 
 <sub>Merci de la visite — et si un projet te sert, une ⭐ fait toujours plaisir.<br>Thanks for stopping by — and if a project is useful to you, a ⭐ is always appreciated.</sub>
 

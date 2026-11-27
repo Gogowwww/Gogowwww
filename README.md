@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="assets/banner.jpg" alt="Bannière : réseau de nœuds verts sur fond sombre" width="100%">
-
 # Salut, moi c'est Gogow_ 👋
 
 **Développeur autodidacte — Go, self-hosting & automatisation.**
